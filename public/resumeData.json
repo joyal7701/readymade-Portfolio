@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name": "Joyal Shah",
+    "occupation": "ReactJS Developer && YouTube Influencer @ IT Buddies",
+    "description": "Full Stack React Developer by Day, Blogger && Freelancer by Night. #papaReact",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Joyal, I'm a Full Stack ReactJS Developer. Currently I'm doing Bachelor of Engineering at L.J. Institute of Engineering & Technology while also coaching on Youtube: ITBuddies.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "joyalshah07@gmail.com",
+    "phone": "+919913414802",
+    "address": {
+      "street": "B-401 Divine Life Avenue",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "380015"
+    },
+    "website": "https://www.youtube.com/c/ITBuddies",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/joyal.shah.35",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joyal-shah-7701/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/joyal_736/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/joyal7701",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here I create a short write-up of my skills to show off to employers",
+    "education": [
+      {
+        "collage": "L.J. Institute of Engineering & Technology",
+        "degree": "Bachelor of Engineering",
+        "graduated": "May 2022",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "School": "Shraddha VidyaMandir",
+        "degree": "HSC",
+        "graduated": "April 2018",
+        "description": "Passed with 86%"
+      }
+    ],
+    "work": [
+      {
+        "company": "IT Buddies",
+        "title": "Owner && React Specialist",
+        "years": "July 2020 - Present",
+        "description": "Teaching Full-Stack Development to above hundreds of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "85%"
+      },
+      {
+        "name": "Flask",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "C",
+        "level": "90%"
+      },
+      {
+        "name": "Filmora",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Recipe Finder App",
+        "category": "Recipe Application built with API (ReactJs, Redux, Bootstrap, Router)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=xpyEjHc6Rs0"
+      },
+      {
+        "title": "SuperHero Application",
+        "category": "Build awesome SuperHero Application Using Redux In React",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=2YnEAWJXMq0"
+      },
+      {
+        "title": "Real Time Chat Application Server",
+        "category": "Chat App in Node.js using Express and Socket.io",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=JzgoWnbdjbQ"
+      },
+      {
+        "title": "User Login System with Node.js",
+        "category": "the process or action of verifying the identity of a user or process",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=_vnn2oKjBfE"
+      },
+      {
+        "title": "Deploy any Application to Heroku",
+        "category": "Create a Free Website on Heroku with help of Git,GitHub",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=9NlATKEvzZQ"
+      },
+      {
+        "title": "MoviesInfo Application In React With Redux",
+        "category": "create MoviesInfo Application Using Redux within half an hour",
+        "image": "joyal.jpg",
+        "url": "https://www.youtube.com/watch?v=nIOFNE6Z57E"
+      },
+      {
+        "title": "Ageteller Application in ReactJS",
+        "category": "Build Ageteller Application In ReactJS Step-by-Step",
+        "image": "joyal1.jpg",
+        "url": "https://www.youtube.com/watch?v=ymzTvFmljFY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here I write some nice things that someone has said about me.."
+      },
+      {
+        "text": "I couldn’t live with myself if I didn’t tell you how much you mean to this company.",
+        "user": "Michel Wick...(CFO)"
+      },
+      {
+        "text": "Thank you for always speaking up in team meetings and providing a unique perspective.",
+        "user": "Ketan Patel...(Receptionist)"
+      },
+      {
+        "text": "It’s amazing how you’re always able to overcome any obstacle thrown your way.",
+        "user": "Sam Martin...(Vice President of Marketing)"
+      }
+    ]
+  }
+}
